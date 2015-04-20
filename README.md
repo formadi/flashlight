@@ -1,1 +1,3 @@
-# flashlight NAVER search engin plugin
+# flashlight plugin
+
+NAVER search engin plugin
